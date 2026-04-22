@@ -217,7 +217,7 @@ const destinations = {
 
 // Function to display suggestions
 function suggestPlaces() {
-    const input = document.getElementById("search").value.toLowerCase();
+    const input = document.getElementById("search").value.trim().toLowerCase();
     const suggestions = document.getElementById("suggestions");
     suggestions.innerHTML = ''; // Clear previous results
 
