@@ -4,7 +4,7 @@
 
 UP Darshan is a simple and user-friendly tourism guide website that helps users explore popular tourist destinations across Uttar Pradesh. It provides detailed information about various places including attractions, cultural highlights, and important landmarks.
 
-(images/Screenshot 2026-04-23 104843.png)
+(images/Homepage.png)
 
 ---
 
